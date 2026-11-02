@@ -8,9 +8,9 @@
 
 <br>
 
-العربية
+<a href="README.md">العربية</a>
 &nbsp;-&nbsp;
-<a href="README.md">English</a>
+English
 
 <br>
 
