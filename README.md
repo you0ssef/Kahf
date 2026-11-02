@@ -1,39 +1,29 @@
 <div align="center">
 
-<img src="path/images/icon.png" width="160" height="160" alt="أيقونة سوما">
+<img src="path/images/icon.png" width="160" height="160" alt="تطبيق كهف">
 
-# Soma
+# كهف
 
-**تطبيق لقراءة وعرض مقالات ويكيبيديا بأسلوب الريلز، مع أدوات قراءة متقدمة ودعم كامل للترجمة بدون إنترنت**
+**تطبيق إسلامي يهدف إلى تقديم تجربة مستخدم مريحة لقراءة واستماع القرآن الكريم، وتفسير الآيات، وقراءة الأذكار، ومعرفة مواقيت الصلاة.**
 
 <br>
 
-<a href="README.md">English</a>
-&nbsp;-&nbsp;
-<a href="README-es.md">Español</a>
+<a href="README-en.md">English</a>
 &nbsp;-&nbsp;
 العربية
 
 <br>
 
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/you0ssef/SomaApp/releases)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/you0ssef/SomaApp?style=for-the-badge&color=10B981&label=Stable&logo=github)](https://github.com/you0ssef/SomaApp/releases/latest/)
-[![GitHub all releases](https://img.shields.io/github/downloads/you0ssef/SomaApp/total?style=for-the-badge&color=0284C7&label=Downloads&logo=github)](https://github.com/you0ssef/SomaApp/releases/)
-[![GitHub stars](https://img.shields.io/github/stars/you0ssef/SomaApp?style=for-the-badge&color=F59E0B&label=Stars&logo=github)](https://github.com/you0ssef/SomaApp/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/you0ssef/SomaApp?style=for-the-badge&color=EA580C&logo=github)](https://github.com/you0ssef/SomaApp/issues)
+[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/you0ssef/Kahf/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/you0ssef/Kahf?style=for-the-badge&color=10B981&label=Stable&logo=github)](https://github.com/you0ssef/Kahf/releases/latest/)
+[![GitHub all releases](https://img.shields.io/github/downloads/you0ssef/Kahf/total?style=for-the-badge&color=0284C7&label=Downloads&logo=github)](https://github.com/you0ssef/Kahf/releases/)
+[![GitHub stars](https://img.shields.io/github/stars/you0ssef/Kahf?style=for-the-badge&color=F59E0B&label=Stars&logo=github)](https://github.com/you0ssef/Kahf/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/you0ssef/Kahf?style=for-the-badge&color=EA580C&logo=github)](https://github.com/you0ssef/Kahf/issues)
 [![License](https://img.shields.io/badge/License-Free-8B5CF6?style=for-the-badge)](#-الترخيص)
-
-<br>
-
-<a href='https://com-yo0ossef-soma.ar.uptodown.com/android' target='_blank' rel='noopener noreferrer' title='Download Soma'>
-  <img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' height="100" alt='Download Soma'>
-</a>
 
 </div>
 
 <br>
-
-## 👀 لقطات الشاشة
 
 <div align="center">
   <img src="path/images/screenshots/ar/1.jpg" width="30%" />
@@ -49,35 +39,152 @@
 
 <br>
 
-## ✨ المميزات
+## المميزات
 
-* تصفح واكتشف مقالات ويكيبيديا بأسلوب تمرير رأسي عصري (Reels).
-* اقرأ عبر واجهة مريحة ومنظمة تدعم التمرير الأفقي للتنقل السريع بين العناوين الرئيسية.
-* تحكم في تجربة القراءة من خلال تعديل حجم الخط وارتفاع الأسطر، والبحث داخل المقال، والتنقل عبر الفهرس، والتبديل بين المظهر الفاتح والداكن.
-* احفظ المقالات محلياً على جهازك للرجوع إليها وقراءتها في أي وقت بدون إنترنت.
-* ترجم المقالات إلى أكثر من 55 لغة محلياً على جهازك بالكامل بدون الحاجة للاتصال بالإنترنت.
-* تصفح واقرأ مقالات ويكيبيديا بأكثر من 30 لغة مختلفة.
-* حدد اهتماماتك وتصنيفاتك المفضلة للحصول على مقالات مخصصة تناسب تفضيلاتك.
-افتح واقرأ أي مقال من ويكيبيديا مباشرة داخل التطبيق عبر أداة قراءة الروابط المخصصة.
-* استعرض الصور بدقة كاملة أو افتح المقال في المتصفح الخارجي أو شاركه بسهولة.
+- قراءة القرآن الكريم بشكل مريح وسلس مع واجهة نظيفة ومنظمة.
+- الاستماع إلى القرآن الكريم بأصوات نخبة من القراء، مع ميزات متقدمة تشمل:
+  - آيات متزامنة مع الصوت أثناء القراءة
+  - مؤقت النوم
+  - سهولة التنقل السريع بين الآيات
+  - استكمال التشغيل في الخلفية
+  - ترجمة موثوقة للآيات بعدة لغات عالمية
+  - وضع التركيز لتجربة استماع خالية من المشتتات
+- حساب مواقيت الصلاة بدقة بناءً على موقعك الجغرافي، مع عرض الصلاة القادمة ومؤقت تنازلي.
+- **صفحة التفسير:** محرك بحث متقدم يتيح الوصول السريع للآيات والكلمات واستعراض تفاسيرها المعتمدة من كبار الأئمة والعلماء.
+- **صفحة الأذكار:** تضم جميع أذكار كتاب "حصن المسلم" منظمة بشكل مريح ومرن مع سهولة التتبع والنسخ.
+- كارت تنبيه لأذكار الصباح والمساء في الرئيسية.
+- إعدادات شاملة تتيح لك تخصيص التطبيق والميزات بما يناسب تفضيلاتك الشخصية.
 
 <br>
 
-## 🔽 التحميل
+<br>
 
-يمكنك تحميل أحدث إصدار من التطبيق عبر صفحة [الإصدارات (Releases)](https://github.com/you0ssef/SomaApp/releases)
+<div align="center">
+
+### الرئيسية والألوان
+
+<div align="center">
+  <img src="path/images/screenshots/ar/c1.jpg" width="18%" />
+  <img src="path/images/screenshots/ar/c2.jpg" width="18%" />
+  <img src="path/images/screenshots/ar/c3.jpg" width="18%" />
+  <img src="path/images/screenshots/ar/c4.jpg" width="18%" />
+  <img src="path/images/screenshots/ar/c5.jpg" width="18%" />
+  <br>
+  <img src="path/images/screenshots/ar/c11.jpg" width="18%" />
+  <img src="path/images/screenshots/ar/c12.jpg" width="18%" />
+  <img src="path/images/screenshots/ar/c13.jpg" width="18%" />
+  <img src="path/images/screenshots/ar/c14.jpg" width="18%" />
+  <img src="path/images/screenshots/ar/c15.jpg" width="18%" />
+</div>
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+
+### قراءة القرآن
+
+<div align="center">
+  <img src="path/images/screenshots/ar/6.jpg" width="22%" />
+  <img src="path/images/screenshots/ar/l4-1.jpg" width="22%" />
+  <img src="path/images/screenshots/ar/l4-2.jpg" width="22%" />
+  <img src="path/images/screenshots/ar/l4-3.jpg" width="22%" />
+</div>
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+
+### المشغل
+
+<div align="center">
+  <img src="path/images/screenshots/ar/3.jpg" width="18%" />
+  <img src="path/images/screenshots/ar/7.jpg" width="18%" />
+  <img src="path/images/screenshots/ar/l5.jpg" width="18%" />
+  <img src="path/images/screenshots/ar/2.jpg" width="18%" />
+  <img src="path/images/screenshots/ar/l8.jpg" width="18%" />
+</div>
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+
+### مواقيت الصلاة
+
+<div align="center">
+  <img src="path/images/screenshots/ar/l1.jpg" width="30%" />
+</div>
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+
+### التفسير
+
+<div align="center">
+  <img src="path/images/screenshots/ar/4.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/8.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/l9.jpg" width="30%" />
+</div>
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+
+### الأذكار
+
+<div align="center">
+  <img src="path/images/screenshots/ar/5.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/9.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/l2.jpg" width="30%" />
+</div>
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+
+### الإعدادات
+
+<div align="center">
+  <img src="path/images/screenshots/ar/l3.jpg" width="30%" />
+</div>
+
+</div>
+
+<br>
+
+## التحميل
+
+يمكنك تحميل أحدث إصدار من التطبيق عبر صفحة [الإصدارات (Releases)](https://github.com/you0ssef/Kahf/releases)
 
 > [!TIP]
 > إذا لم تكن متأكداً من الإصدار المتوافق مع جهازك، يُرجى تحميل إصدار **Universal** بصيغة APK، فهو يعمل على جميع الأجهزة المدعومة
 
 <br>
 
-## 🐛 الإبلاغ عن الأخطاء والاقتراحات
+## الترخيص
 
-هل واجهت مشكلة أو لديك اقتراح لتحسين التطبيق؟ يُرجى فتح **[تذكرة جديدة (Issue)](https://github.com/you0ssef/SomaApp/issues)**
-
-<br>
-
-## 📃 الترخيص
-
-تطبيق سوما مجاني للاستخدام. جميع الحقوق محفوظة ©
+تطبيق مجاني للاستخدام. جميع الحقوق محفوظة ©
