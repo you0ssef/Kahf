@@ -18,8 +18,6 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/you0ssef/Kahf?style=for-the-badge&color=10B981&label=Stable&logo=github)](https://github.com/you0ssef/Kahf/releases/latest/)
 [![GitHub all releases](https://img.shields.io/github/downloads/you0ssef/Kahf/total?style=for-the-badge&color=0284C7&label=Downloads&logo=github)](https://github.com/you0ssef/Kahf/releases/)
 [![GitHub stars](https://img.shields.io/github/stars/you0ssef/Kahf?style=for-the-badge&color=F59E0B&label=Stars&logo=github)](https://github.com/you0ssef/Kahf/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/you0ssef/Kahf?style=for-the-badge&color=EA580C&logo=github)](https://github.com/you0ssef/Kahf/issues)
-[![License](https://img.shields.io/badge/License-Free-8B5CF6?style=for-the-badge)](#-الترخيص)
 
 </div>
 
