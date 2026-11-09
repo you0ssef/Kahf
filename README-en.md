@@ -19,6 +19,8 @@ English
 [![GitHub all releases](https://img.shields.io/github/downloads/you0ssef/Kahf/total?style=for-the-badge&color=0284C7&label=Downloads&logo=github)](https://github.com/you0ssef/Kahf/releases/)
 [![GitHub stars](https://img.shields.io/github/stars/you0ssef/Kahf?style=for-the-badge&color=F59E0B&label=Stars&logo=github)](https://github.com/you0ssef/Kahf/stargazers)
 
+<a href='https://com-yo0ossef-kahf.en.uptodown.com/android' title='Download Kahf' ><img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' alt='Download Kahf'></a>
+
 </div>
 
 <br>
