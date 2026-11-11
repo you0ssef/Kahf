@@ -55,124 +55,24 @@ English
 - Daily reminder card for morning and evening azkar on the home screen.
 - Comprehensive settings allowing you to customize the app and features to your personal preferences.
 
-<br>
 
-## App Screenshots
-
-<br>
-
-<div align="center">
-
-### Home & Themes
-
-<div align="center">
-  <img src="path/images/screenshots/ar/c1.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c2.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c3.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c4.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c5.jpg" width="18%" />
-  <br>
-  <img src="path/images/screenshots/ar/c11.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c12.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c13.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c14.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c15.jpg" width="18%" />
-</div>
-
-</div>
-
-<br>
 <hr>
 <br>
 
 <div align="center">
-
-### Reading Quran
-
-<div align="center">
-  <img src="path/images/screenshots/ar/6.jpg" width="22%" />
-  <img src="path/images/screenshots/ar/l4-1.jpg" width="22%" />
-  <img src="path/images/screenshots/ar/l4-2.jpg" width="22%" />
-  <img src="path/images/screenshots/ar/l4-3.jpg" width="22%" />
+  <img src="path/images/screenshots/ar/10.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/11.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/12.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/13.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/14.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/15.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/16.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/17.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/18.jpg" width="30%" />
 </div>
 
 </div>
-
 <br>
-<hr>
-<br>
-
-<div align="center">
-
-### Audio Player
-
-<div align="center">
-  <img src="path/images/screenshots/ar/3.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/7.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/l5.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/2.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/l8.jpg" width="18%" />
-</div>
-
-</div>
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-
-### Prayer Times
-
-<div align="center">
-  <img src="path/images/screenshots/ar/l1.jpg" width="30%" />
-</div>
-
-</div>
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-
-### Tafsir
-
-<div align="center">
-  <img src="path/images/screenshots/ar/4.jpg" width="30%" />
-  <img src="path/images/screenshots/ar/8.jpg" width="30%" />
-  <img src="path/images/screenshots/ar/l9.jpg" width="30%" />
-</div>
-
-</div>
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-
-### Azkar
-
-<div align="center">
-  <img src="path/images/screenshots/ar/5.jpg" width="30%" />
-  <img src="path/images/screenshots/ar/9.jpg" width="30%" />
-  <img src="path/images/screenshots/ar/l2.jpg" width="30%" />
-</div>
-
-</div>
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-
-### Settings
-
-<div align="center">
-  <img src="path/images/screenshots/ar/l3.jpg" width="30%" />
-</div>
 
 </div>
 
