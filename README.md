@@ -54,122 +54,25 @@
 - كارت تنبيه لأذكار الصباح والمساء في الرئيسية.
 - إعدادات شاملة تتيح لك تخصيص التطبيق والميزات بما يناسب تفضيلاتك الشخصية.
 
-<br>
 
-<br>
-
-<div align="center">
-
-### الرئيسية والألوان
-
-<div align="center">
-  <img src="path/images/screenshots/ar/c1.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c2.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c3.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c4.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c5.jpg" width="18%" />
-  <br>
-  <img src="path/images/screenshots/ar/c11.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c12.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c13.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c14.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/c15.jpg" width="18%" />
-</div>
-
-</div>
-
-<br>
 <hr>
 <br>
 
 <div align="center">
-
-### قراءة القرآن
-
-<div align="center">
-  <img src="path/images/screenshots/ar/6.jpg" width="22%" />
-  <img src="path/images/screenshots/ar/l4-1.jpg" width="22%" />
-  <img src="path/images/screenshots/ar/l4-2.jpg" width="22%" />
-  <img src="path/images/screenshots/ar/l4-3.jpg" width="22%" />
+  <img src="path/images/screenshots/ar/10.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/11.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/12.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/13.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/14.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/15.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/16.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/17.jpg" width="30%" />
+  <img src="path/images/screenshots/ar/18.jpg" width="30%" />
 </div>
 
 </div>
 
 <br>
-<hr>
-<br>
-
-<div align="center">
-
-### المشغل
-
-<div align="center">
-  <img src="path/images/screenshots/ar/3.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/7.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/l5.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/2.jpg" width="18%" />
-  <img src="path/images/screenshots/ar/l8.jpg" width="18%" />
-</div>
-
-</div>
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-
-### مواقيت الصلاة
-
-<div align="center">
-  <img src="path/images/screenshots/ar/l1.jpg" width="30%" />
-</div>
-
-</div>
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-
-### التفسير
-
-<div align="center">
-  <img src="path/images/screenshots/ar/4.jpg" width="30%" />
-  <img src="path/images/screenshots/ar/8.jpg" width="30%" />
-  <img src="path/images/screenshots/ar/l9.jpg" width="30%" />
-</div>
-
-</div>
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-
-### الأذكار
-
-<div align="center">
-  <img src="path/images/screenshots/ar/5.jpg" width="30%" />
-  <img src="path/images/screenshots/ar/9.jpg" width="30%" />
-  <img src="path/images/screenshots/ar/l2.jpg" width="30%" />
-</div>
-
-</div>
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-
-### الإعدادات
-
-<div align="center">
-  <img src="path/images/screenshots/ar/l3.jpg" width="30%" />
-</div>
 
 </div>
 
